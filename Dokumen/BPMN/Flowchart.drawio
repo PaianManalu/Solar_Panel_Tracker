@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" modified="2024-05-31T07:47:12.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="gwHzUbxcoq_nI3QA7ToW" version="24.4.10" type="device">
+  <diagram name="Page-1" id="6bjz_hlGsF3jARu7Gqkc">
+    <mxGraphModel dx="1916" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-2" value="Sensor mendeteksi intensitas cahaya&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-3" value="Motor menggerakkan panel surya ke arah matahari" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-4" value="Panel surya menyerap dan mengubah cahaya matahari menjadi&amp;nbsp; listrik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="500" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-5" value="Menyimpan energi matahari di dalam baterai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-6" value="Adanya pergerakan pengunjung" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="850" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-7" value="Mendeteksi Kedatangan Pengunjung" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="730" width="123" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-8" value="Tidak ada pergerakan pengunjung" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="850" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-9" value="Lampu otomatis tidak menyala&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="970" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-10" value="Lampu otomatis menyala&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="970" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-11" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1070" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYtRpM9wa35F-LZVUzyh-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="700" as="sourcePoint" />
+            <mxPoint x="410" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.79" y="340" as="sourcePoint" />
+            <mxPoint x="409.79" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.79" y="450" as="sourcePoint" />
+            <mxPoint x="409.79" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.79" y="570" as="sourcePoint" />
+            <mxPoint x="409.79" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="412.29" y="680" as="sourcePoint" />
+            <mxPoint x="412.29" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYtRpM9wa35F-LZVUzyh-7" target="NYtRpM9wa35F-LZVUzyh-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="920" as="sourcePoint" />
+            <mxPoint x="640" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NYtRpM9wa35F-LZVUzyh-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="780" as="sourcePoint" />
+            <mxPoint x="650" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYtRpM9wa35F-LZVUzyh-8" target="NYtRpM9wa35F-LZVUzyh-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="920" as="sourcePoint" />
+            <mxPoint x="650" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYtRpM9wa35F-LZVUzyh-6" target="NYtRpM9wa35F-LZVUzyh-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="920" as="sourcePoint" />
+            <mxPoint x="650" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYtRpM9wa35F-LZVUzyh-9" target="NYtRpM9wa35F-LZVUzyh-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1000" as="sourcePoint" />
+            <mxPoint x="650" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYtRpM9wa35F-LZVUzyh-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NYtRpM9wa35F-LZVUzyh-10" target="NYtRpM9wa35F-LZVUzyh-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1100" as="sourcePoint" />
+            <mxPoint x="280" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
